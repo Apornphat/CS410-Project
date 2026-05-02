@@ -1,5 +1,3 @@
-# CS410-Project
-
 # CS 410 Final Project — Simple Calculator
 
 **Java Implementation: Static Typing & Imperative Control Flow**
