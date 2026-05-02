@@ -29,11 +29,11 @@ javac Main.java && java Main
 
 ---
 
-## โครงสร้างโปรเจกต์
-CS410-Project/
-├── Main.java          # โค้ดหลัก (Simple Calculator GUI)
-├── .devcontainer/
-│   ├── devcontainer.json  # ตั้งค่า Java + Desktop
-│   └── Dockerfile         # แก้ไข Yarn repo issue
+## โครงสร้างโปรเจกต์                                                                                
+CS410-Project/                                                                                    
+├── Main.java          # โค้ดหลัก (Simple Calculator GUI)                                          
+├── .devcontainer/                                                                                
+│   ├── devcontainer.json  # ตั้งค่า Java + Desktop                                                  
+│   └── Dockerfile         # แก้ไข Yarn repo issue                                                 
 └── README.md
 
