@@ -38,7 +38,6 @@ javac Main.java && java Main
 
 ---
 
-## โครงสร้างโปรเจกต์
 
 ## โครงสร้างโปรเจกต์                                                                                
 CS410-Project/                                                                                    
